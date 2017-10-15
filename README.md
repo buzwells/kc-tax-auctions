@@ -9,6 +9,6 @@ The raw data contains parcel numbers but not addresses. By merging the data with
 
 Overlaying the tax auctions onto a map of Kansas City with census data on per capita income (at the block group level) shows the strong correlation between low income levels and tax delinquincies leading to the eventual loss of the property through foreclosure and auction.
 
-![2017 KC Tax Auctions](img/KC-Tax Auctions-2017.png)
+![2017 KC Tax Auctions](https://github.com/buzwells/kc-tax-auctions/blob/master/img/KC-Tax-Auctions-2017.png)
 
 
