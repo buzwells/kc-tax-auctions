@@ -17,6 +17,6 @@ Property that finds no sellers who meet the minimum bid requirements are transfe
 
 Superimposing both the sold and unsold properties from the 2017 auction on the same map yields the following:
 
-![2017 Sold and Unsold Properties](https://github.com/buzwells/kc-tax-auctions/img/Tax-Auctions-Sold-and-Unsold-2017.png")
+![2017 Sold and Unsold Properties](https://github.com/buzwells/kc-tax-auctions/blob/master/img/Tax-Auctions-Sold-and-Unsold-2017.png")
 
 
