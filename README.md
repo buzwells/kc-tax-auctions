@@ -11,7 +11,7 @@ Overlaying the tax auctions onto a map of Kansas City with census data on per ca
 
 ![2017 KC Tax Auctions](https://github.com/buzwells/kc-tax-auctions/blob/master/img/KC-Tax-Auctions-2017.png)
 
-Property that finds no buyers who meet the minimum bid requirements are transferred to either the Land Bank of Kansas City or, if unincorporated, to the Land Trust of Jackson County. The map belows shows properties transferred to the Land Bank of Kansas City in 2017.
+Properties that find no buyers who meet the minimum bid requirements are transferred to either the Land Bank of Kansas City or, if unincorporated, to the Land Trust of Jackson County. The map belows shows properties transferred to the Land Bank of Kansas City in 2017.
 
 ![2017 Land Bank Transfers](https://github.com/buzwells/kc-tax-auctions/blob/master/img/KC-Land-Bank-Transfers-2017.png)
 
